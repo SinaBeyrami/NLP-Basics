@@ -222,5 +222,3 @@ https://.../disturbance-ashoftegi,Disturbance,Ashoftegi,آشفته گی,"«آش�
 ## License
 
 Academic/educational use.
-
----
